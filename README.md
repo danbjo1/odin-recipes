@@ -1,0 +1,1 @@
+This project will test both my  HTML skills but also make me more comfortable using git. 
